@@ -138,10 +138,4 @@ output_class = class_names[np.argmax(pred)]
 print("The predicted class is", output_class)
 ```
 
-## Conclusion
-This project successfully fine-tunes **ResNet50** for flower classification using **TensorFlow and Keras**. The model achieves good accuracy and can be further improved by fine-tuning additional layers or using data augmentation techniques.
-
----
-### Author
-[Your Name]
 
